@@ -1,5 +1,0 @@
-module SwiftZlib [system] {
-  header "/usr/local/include/zlib.h"
-  export *
-}
-
